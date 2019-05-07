@@ -1,0 +1,3 @@
+/home/darkwaycode/Escritorio/ULL/PC/pr3/c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darkwaycode/Escritorio/ULL/PC/pr3/c++/cmake-build-debug/CMakeFiles/c__.dir
+/home/darkwaycode/Escritorio/ULL/PC/pr3/c++/cmake-build-debug/CMakeFiles/edit_cache.dir
